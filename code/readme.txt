@@ -1,0 +1,5 @@
+若已安装anaconda运行程序前需安装库BeautifulSoup、jieba、wordcloud、csv，并需要下载安装对应的chromedriver
+
+yunmusic_ui.py 借助tkinter提供了简单的图形交互界面，具体使用见doc目录下的设计文档.pdf的第四部分
+yunmusic.py 包含所有功能的封装整理的源函数和数据结构，具体使用见doc目录下的设计文档.pdf的第五部分
+lib 文件夹下包含生成词云图所需的背景图片示例和字体示例以及singer_info.csv:从网站上爬取的歌手信息  
